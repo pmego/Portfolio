@@ -2,4 +2,4 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Deployed to Netlify: https://pmego-portfolio.netlify.app/inicio
+Deployed to Netlify: https://pmego-portfolio.netlify.app
