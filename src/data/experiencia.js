@@ -1,21 +1,21 @@
 export const experiencia = [
     {
-        empresa: 'NODTECH S.A.C.',
-        cargo: 'Software Developer',
-        tareas: 'C# y SQL Server',
-        año: 'jul. 2022 - oct. 2022 '
-    },
-    {
         empresa: 'Kodevian Studio',
         cargo: 'Frontend Web Developer',
         tareas: 'Html, Css, Javascript y React.JS',
-        año: 'ene. 2022 - jun. 2022'
+        año: 'Jun. 2022 - Jun. 2023'
+    },
+    {
+        empresa: 'NODTECH S.A.C.',
+        cargo: 'Software Developer',
+        tareas: 'C# y SQL Server',
+        año: 'Ene. 2022 - May. 2022 '
     },
     {
         empresa: 'Xigma S.A.C',
         cargo: 'Trainee Web Developer',
         tareas: 'Practicante de html, css, bootstrap',
-        año: 'sept. 2021 - dic. 2021'
+        año: 'Jun. 2021 - Dic. 2021'
     }
 ];
 

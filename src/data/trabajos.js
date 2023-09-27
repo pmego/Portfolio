@@ -27,5 +27,6 @@ export const trabajos = [
         url: 'https://pelis-movies.netlify.app/',
         teconologias: 'html, CSS, React.js',
         categoria: 'Desarrollo Web'     
-    },
+    }
 ];
+
