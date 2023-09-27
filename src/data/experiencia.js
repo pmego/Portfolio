@@ -23,11 +23,11 @@ export const educacion = [
     {
         institucion: 'CIBERTEC',
         curso: 'Computación e Informática',
-        año:'jul. 2020 - dic. 2023',
+        año:'Jul. 2020 - Dic. 2023',
     },
     {
         institucion: 'Udemy',
         curso: 'React Frontend Developer ',
-        año:'oct. 2022 - jul. 2023',
+        año:'Oct. 2022 - Jul. 2023',
     }
 ];
